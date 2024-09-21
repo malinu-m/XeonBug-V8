@@ -16,13 +16,13 @@ global.ytname = "YT: GlobalTechInfo"
 global.socialm = "GitHub: GlobalTechInfo"
 global.location = "Pakistan, Karachi, Karachi"
 
-global.ownernumber = '923444844060'  //creator number
-global.ownername = 'Qasim Ali' //owner name
-global.botname = 'XeonBug-V8' //name of the bot
+global.ownernumber = '237693132795'  //creator number
+global.ownername = '✞ঔৣ☠۝J꙰O꙰K꙰E꙰R꙰ ̷۝☠ঔৣ✞' //owner name
+global.botname = '✞ঔৣ☠۝J꙰O꙰K꙰E꙰R꙰ ̷۝☠ঔৣ✞-BOT' //name of the bot
 
 //sticker details
 global.packname = 'Sticker By'
-global.author = 'GlobalTech\n\nContact: +923444844060'
+global.author = '✞ঔৣ☠۝J꙰O꙰K꙰E꙰R꙰ ̷۝☠ঔৣ✞'
 
 //console view/theme
 global.themeemoji = '🪀'
@@ -35,7 +35,7 @@ global.link = 'https://whatsapp.com/channel/0029VagJIAr3bbVBCpEkAM07'
 global.prefa = ['','!','.','#','&']
 
 //false=disable and true=enable
-global.autoRecording = false //auto recording
+global.autoRecording = true //auto recording
 global.autoTyping = false //auto typing
 global.autorecordtype = false //auto typing + recording
 global.autoread = false //auto read messages
